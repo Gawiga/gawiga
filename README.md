@@ -1,4 +1,5 @@
 ### Hi there 👋
+![just code it](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <!--
 **Gawiga/gawiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
