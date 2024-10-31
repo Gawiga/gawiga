@@ -9,13 +9,13 @@
 
 ![just code it](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=gawiga&layout=donut&show_icons=true&hide=rank=true&theme=radical" alt="gawiga" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gawiga&hide_progress=true&theme=radical" alt="gawiga" />
 <div/>
 
-<!--
 **Gawiga/gawiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
