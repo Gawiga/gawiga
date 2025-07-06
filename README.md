@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [Mail](mailto:contato@gawiga.com)
+- 📫 How to reach me: [Mail](mailto:contato@gawiga.com) or [Linkedin](https://www.linkedin.com/in/gawiga/)
 - 🔭 I’m currently working at [CI&T](https://ciandt.com/) as a Software Developer.
 - 👯 I’m looking to collaborate on things that help the world and improve my skills.
 - 🌱 I’m currently learning .NET and AWS, that is my main focus, but I like things like blockchain and finance.
